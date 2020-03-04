@@ -1,0 +1,15 @@
+Memory:
+ld - load double word - DS
+std - store double word - DS
+
+Branching:
+bc - branch conditional relative - B
+
+Basic Instructions:
+add - Add - XO
+addi - Add immediate - D
+subf - Subtract From - XO
+and - AND operation - X
+nand - NAND operation - X
+or - OR operation - X
+xor - XOR operation - X
