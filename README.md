@@ -1,1 +1,1 @@
-# uPowerSimulator1
+# uPower Simulator
